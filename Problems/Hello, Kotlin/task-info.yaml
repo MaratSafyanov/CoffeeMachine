@@ -1,0 +1,32 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  learner_created: false
+- name: src/Test.kt
+  visible: true
+  learner_created: true
+- name: src/test2.kt
+  visible: true
+  learner_created: true
+- name: src/loops.kt
+  visible: true
+  learner_created: true
+- name: src/test3.kt
+  visible: true
+  learner_created: true
+- name: src/test4.kt
+  visible: true
+  learner_created: true
+- name: src/StringsAsObjects.kt
+  visible: true
+  learner_created: true
+- name: src/Enums.kt
+  visible: true
+  learner_created: true
+- name: src/Task6.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4706
+status: Solved
+record: -1
